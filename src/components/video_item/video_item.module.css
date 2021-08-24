@@ -6,7 +6,7 @@
 .video{
   display: flex;
   align-items: center;  
-  border: 1px solid #000;
+  border: 1px solid #dfe6e9;
   cursor: pointer;
   transition: transform 250ms ease-in;
   box-shadow:  3px 3px 5px 0px rgba(191,191,191,0.53)
